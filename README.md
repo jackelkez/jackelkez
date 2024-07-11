@@ -2,7 +2,6 @@
 - being warped for javascript + python + c++ + c#
 - im just here for the clown car
 - they/he/it/mew/husk
-- Fun fact: confusion is <3
 
 <!---
 jackelkez/jackelkez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
